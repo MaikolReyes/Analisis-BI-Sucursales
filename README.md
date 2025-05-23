@@ -2,7 +2,7 @@
 
 Este proyecto consiste en el desarrollo de un tablero interactivo en **Power BI** que permite analizar y comparar el rendimiento comercial de diferentes sucursales de una empresa a lo largo del tiempo. Se utilizan visualizaciones clave para responder preguntas estratégicas del negocio y extraer insights valiosos a partir de los datos.
 
-<img width="955" alt="Screenshot 2025-05-22 193634" src="https://github.com/user-attachments/assets/46d7478f-a88f-4245-aa16-27f221eafc6b" />
+<img width="956" alt="Screenshot 2025-05-22 193838" src="https://github.com/user-attachments/assets/dd1f0eb8-1a6f-4dc1-87f6-1bf0d6f55981" />
 
 ## 📌 Objetivo del análisis
 
