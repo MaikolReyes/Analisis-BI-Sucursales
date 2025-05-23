@@ -8,17 +8,14 @@ Este proyecto consiste en el desarrollo de un tablero interactivo en **Power BI*
 
 Responder a tres preguntas de negocio mediante visualizaciones claras e intuitivas:
 
-### ❓ Pregunta 1:
-**¿Por cuántos trimestres la sucursal de "Brisamonte" logró una facturación mayor que la de "Pueblomonte"?**  
-📍 **Respuesta:** 3 trimestres.
+### 🗓️ 1. ¿Por cuántos trimestres la sucursal de "Brisamonte" logró una facturación mayor que la de "Pueblomonte"?
+- 3 trimestres.
 
-### ❓ Pregunta 2:
-**En una acumulación anual, ¿qué sucursal termina con la mayor facturación durante 2026, y en qué puesto había comenzado en 2024?**  
-📍 **Respuesta:** La sucursal **Monteverde**, que comenzó en segundo lugar y finalizó primera.
+### 💰 2. En una acumulación anual, ¿qué sucursal termina con la mayor facturación durante 2026, y en qué puesto había comenzado en 2024?
+- La sucursal **Monteverde**, que comenzó en segundo lugar y finalizó primera en la facturacion a lo largo del tiempo.
 
-### ❓ Pregunta 3:
-**¿Cuál fue la facturación de la sucursal que más unidades vendió, de la tercera región en cantidad de unidades vendidas, entre el 25/5/24 y el 31/8/24?**  
-📍 **Respuesta:** La sucursal **Brisamonte**, con una facturación de **$0,60 millones**.
+### 🏢 3. ¿Cuál fue la facturación de la sucursal que más unidades vendió, de la tercera región en cantidad de unidades vendidas, entre el 25/5/24 y el 31/8/24?
+- La sucursal **Brisamonte**, con una facturación de **$0,60 millones**.
 
 ## 📊 Visualizaciones utilizadas
 
